@@ -1,0 +1,84 @@
+.main-color-bg {
+    background-color: #1a9988;
+}
+
+.main-color {
+    color: #1a9988;
+}
+
+.main-font {
+    font-family: "Raleway";
+}
+
+.secondary-font {
+    font-family: 'Source Sans Pro';
+}
+
+.image-height {
+    height: 550px;
+    width: 700px;
+    opacity: 0.9;
+}
+
+.fade-in{
+    opacity: 0.9;
+}
+
+.bg-image {
+    height: 100vh;
+}
+
+.center-text {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 60pt;
+}
+
+.font-heading {
+    font-size: 50pt;
+}
+  
+.bg-image-container {
+    position: relative;
+}
+
+.timeline {
+    height: 700px;
+}
+
+.timeline-item {
+    position: absolute;
+    cursor: pointer;
+    font-family: 'Source Sans Pro';
+}
+
+.timeline-text {
+    font-size: 32pt;
+}
+
+.content-width {
+    width: 1800px
+}
+
+.timeline-item:hover
+{
+    color: #1a9988;
+    transition:all 0.2s ease;
+}
+
+.image-height:hover{
+    opacity: 1;
+    transition:all 0.2s ease;
+}
+
+
+.fade-in:hover {
+    opacity: 1;
+    transition:all 0.2s ease;
+}
+
+.breakpoint {
+    margin-top: 500px;
+}
